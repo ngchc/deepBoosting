@@ -5,7 +5,7 @@ Chang Chen, Zhiwei Xiong, Xinmei Tian, Feng Wu. Deep Boosting for Image Denoisin
 
 ## Requirements
 Anaconda>=4.2.0 (Python 3.5) <br/>
-TensorFlow>=1.4.0 <br/>
+TensorFlow==1.4.0 <br/>
 
 ## Train the model
 Usage example to train/evaluate a new model <br/>
