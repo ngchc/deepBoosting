@@ -10,7 +10,7 @@ TensorFlow==1.4.0 <br/>
 Matlab Engine (Python Interface) <br/>
 
 ## Train the model
-Usage example to train/evaluate a new model (tf) <br/>
+Usage example to train/evaluate a new model <br/>
 ```
 cd train && cat train400.tfrecord.tar.gz.* | tar -xzv
 python train.py && python inference.py
